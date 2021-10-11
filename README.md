@@ -20,5 +20,5 @@ Installation steps for running the program with the existing weight file named y
 
 Installation steps for running the program with your own custom data set and weight file obtained after training a new model:-
 1) Follow Steps 1) to 6) same as mentioned above.
-2) Create obj.zip folder containing your custom image dataset and anntation files.
+2) Create obj.zip folder containing your custom image dataset and annotation files.
 3) Follow steps 1) to 11) mentioned in the Google Colab notebook. 
