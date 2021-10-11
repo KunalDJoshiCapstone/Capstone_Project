@@ -31,4 +31,5 @@ URL for program explanation recording:-
 https://rit.zoom.us/rec/share/fI4asM85Ik8DIBrJ-wjJ9TwDDihUr-ZI0KyOVBi35pOWAwvm5aO7yUN7OtTWWFgZ.LU6JFgXoj5R2d2Nz
 
 URL for Demo recording:-
-https://drive.google.com/drive/folders/1Gb-VtCbOropbA20fMgG4m4QSAM3RJoCu
+https://drive.google.com/file/d/1V-JQ4J8XBBtsO1fypD16y4HljlrSa2x8/view?usp=sharing
+https://drive.google.com/file/d/1B90sgI3rUBuMrckG5LL0dwJte0ZmlnBp/view?usp=sharing
