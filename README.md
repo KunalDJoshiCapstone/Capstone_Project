@@ -25,7 +25,7 @@ Installation steps for running the program with your own custom data set and wei
 3) Follow steps 1) to 11) mentioned in the Google Colab notebook. 
 
 URL for the image dataset and annotation files used in the project:-
-https://drive.google.com/drive/u/0/folders/11JPigsdj9l5JmAnGdmEn61Dy57cineV7
+https://drive.google.com/file/d/1diXniyci2ypySm4TwJTuLBUSFGjYGQfS/view?usp=sharing
 
 URL for program explanation recording:-
 https://rit.zoom.us/rec/share/fI4asM85Ik8DIBrJ-wjJ9TwDDihUr-ZI0KyOVBi35pOWAwvm5aO7yUN7OtTWWFgZ.LU6JFgXoj5R2d2Nz
