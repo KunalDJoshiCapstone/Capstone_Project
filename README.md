@@ -4,7 +4,7 @@
 Installation steps for running the program with the existing weight file named yolov4-custom_best.weights:- 
 1) Upload all the files in the Capstone_Project repository to your Google Drive.
 2) Open https://colab.research.google.com
-3) Navigate to Google Drive option.
+3) Navigate to either Recent option or Google Drive option.
 4) Open YOLOv4_Webcam_Live_Traffic-Lights_Stop-Signs_Detection.ipynb file.
 5) Click on Connect button which is on the top right side of the Google Colab notebook in order to make the connection.
 6) Then Edit -> Notebook Settings -> GPU -> Save. 
