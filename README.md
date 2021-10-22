@@ -1,7 +1,7 @@
 # Navigation Assistance using Outdoor Object Detections and Recognitions for People Who are Blind and Visually Impaired using Deep Learning.
 ## Installation steps 
 
-Installation steps for running the program with the existing weight file named yolov4-custom_best.weights:- 
+#### Installation steps for running the program with the existing weight file named yolov4-custom_best.weights:- 
 1) Download weights file from https://drive.google.com/file/d/1lRRESxnroxFb2OohPtA6CSg6Xg-CZFDZ/view?usp=sharing
 2) Upload all the files in the Capstone_Project repository to your Google Drive.
 3) Open https://colab.research.google.com
@@ -19,7 +19,7 @@ Installation steps for running the program with the existing weight file named y
 15) Click on Stop Capture button which will stop detection and recognition of traffic lights and stop signs. 
 16) Click on Stop Video button which will stop webcam of the machine. 
 
-Installation steps for running the program with your own custom data set and weight file obtained after training a new model:-
+#### Installation steps for running the program with your own custom data set and weight file obtained after training a new model:-
 1) Follow Steps 2) to 6) same as mentioned above.
 2) Create obj.zip folder containing your custom image dataset and annotation files.
 3) Follow steps 1) to 10) mentioned in the Google Colab notebook. 
